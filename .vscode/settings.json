@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/jayvirani/Desktop/javafx-sdk-18/lib/javafx-swt.jar",
+        "/Users/jayvirani/Desktop/javafx-sdk-18/lib/javafx.base.jar",
+        "/Users/jayvirani/Desktop/javafx-sdk-18/lib/javafx.controls.jar",
+        "/Users/jayvirani/Desktop/javafx-sdk-18/lib/javafx.fxml.jar",
+        "/Users/jayvirani/Desktop/javafx-sdk-18/lib/javafx.graphics.jar",
+        "/Users/jayvirani/Desktop/javafx-sdk-18/lib/javafx.media.jar",
+        "/Users/jayvirani/Desktop/javafx-sdk-18/lib/javafx.swing.jar",
+        "/Users/jayvirani/Desktop/javafx-sdk-18/lib/javafx.web.jar"
+    ]
+}
